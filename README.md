@@ -3,15 +3,6 @@ A Java program consists of a collection of classes. So far, most of your program
 
 In Java, packages provide this structuring mechanism. A Java package is a set of related classes. For example, the Java library consists of several hundred packages, some of which are listed in Table 9.19.1. (Definition of **`package`**: A collection of related classes. The `import` statement is used to access one or more classes in a package.)
 
-
-
-
-## Thanks for watching!
-
-If you liked my coding then follow me on my [Instagram](https://www.instagram.com/fabianzelayahn/) account or [GitHub](https://github.com/fabianzelaya) account.
-
-<img src="https://ucarecdn.com/d1a85e63-35f9-41d7-b758-ff05742057d1/GitHub_Black_Signature.png" width="240" height="79.63" />
-
 ## Table 9.19.1: Important Packages in the Java Library.
 | Package | Purpose | Sample Class |
 | --- | --- | --- |
